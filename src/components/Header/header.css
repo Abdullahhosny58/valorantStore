@@ -1,0 +1,12 @@
+.button:hover {
+  cursor: pointer;
+}
+.border {
+  border: 1px solid red;
+}
+
+@media (max-width: 600px) {
+  .box {
+    display: none;
+  }
+}
